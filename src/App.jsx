@@ -2,8 +2,6 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Section from "./components/Section";
 import ProjectsSection from "./components/ProjectsSection";
-import Footer from "./components/Footer"; // Se houver um rodapé
-
 const App = () => {
   return (
     <>
@@ -11,7 +9,6 @@ const App = () => {
       <Main />
       <Section />
       <ProjectsSection />
-      <Footer />
     </>
   );
 };
