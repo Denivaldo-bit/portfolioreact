@@ -11,7 +11,7 @@ const App = () => {
       <Main />
       <Section />
       <ProjectsSection />
-      <Footer /> {/* Se houver um rodapé, ele fica no final */}
+      <Footer />
     </>
   );
 };
